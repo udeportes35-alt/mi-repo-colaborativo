@@ -1,4 +1,4 @@
-Cambio realidado en GitHub (rama min)
+Cambio realidado en GitHub (rama main)
 Este archivo fue creado localmente
 
 #He modifcado este txt en github
