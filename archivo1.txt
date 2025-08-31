@@ -1,3 +1,4 @@
+Cambio realidado en GitHub (rama min)
 Este archivo fue creado localmente
 
 #He modifcado este txt en github
